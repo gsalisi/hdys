@@ -19,10 +19,12 @@ How Do You Say?
 ```
 3) Install mongoDB (refer to mongodb manuals)
 
-4) Clone repository directly from repository. (you need to be added as collaborator)
+4) Clone repository directly from [here](https://github.com/gsalisi/hdys.git). (you need to be added as collaborator)
 
-5) On the command line, run $ mongod (ensure mongoDB connection is working) 
-
+5) On the command line, run: (ensure mongoDB connection is working) 
+```
+	$ mongod 
+```
 6) Open another command line tab/window, navigate to the root directory of the app using command line, then run:
 ```
     $ npm install
